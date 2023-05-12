@@ -1,0 +1,42 @@
+[
+  {
+    "bookSourceName": "测试",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https:ww,baiduc,om",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledCookieJar": true,
+    "enabledExplore": true,
+    "enabledReview": true,
+    "lastUpdateTime": 1676995861403,
+    "respondTime": 180000,
+    "ruleBookInfo": {},
+    "ruleContent": {},
+    "ruleExplore": {},
+    "ruleReview": {},
+    "ruleSearch": {},
+    "ruleToc": {},
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "长期链接测试",
+    "bookSourceGroup": "一只喵小小书源站测试",
+    "bookSourceName": "测试书源",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://bs.yuedu.click",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledCookieJar": true,
+    "enabledExplore": true,
+    "enabledReview": false,
+    "lastUpdateTime": 1682501573043,
+    "respondTime": 180000,
+    "ruleBookInfo": {},
+    "ruleContent": {},
+    "ruleExplore": {},
+    "ruleReview": {},
+    "ruleSearch": {},
+    "ruleToc": {},
+    "weight": 0
+  }
+]
