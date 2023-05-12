@@ -1,0 +1,21 @@
+[
+  {
+    "bookSourceName": "测试",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https:ww,baiduc,om",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledCookieJar": true,
+    "enabledExplore": true,
+    "enabledReview": true,
+    "lastUpdateTime": 1676995861403,
+    "respondTime": 180000,
+    "ruleBookInfo": {},
+    "ruleContent": {},
+    "ruleExplore": {},
+    "ruleReview": {},
+    "ruleSearch": {},
+    "ruleToc": {},
+    "weight": 0
+  }
+]
